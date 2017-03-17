@@ -1,5 +1,6 @@
 # ng2-route-loading
 show animation when route
+[Demo](https://zouyoushun.github.io/ng2-route-loading)
 
 # Installation & Usage
 
